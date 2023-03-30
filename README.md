@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/99494967/228953889-cb0b7f1a-2167-4904-acc1-fa40642e1dd5.png)
-
+![Bobcat Weapon Heist(4)](https://user-images.githubusercontent.com/99494967/228958147-961b5ecf-a03b-4512-a4b8-f49c6fafde28.jpg)
 
 I decided to edit GreenSlayer's impound script and streamline the code for a server I'm working on. 
 If you have any improvement ideas/issues etc. Please create a PR Request/Issue on this Repo.
