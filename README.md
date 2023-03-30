@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/99494967/228952264-89a412d6-7320-48b3-a7ab-fc1103bc6d25.png
+![image](https://user-images.githubusercontent.com/99494967/228953889-cb0b7f1a-2167-4904-acc1-fa40642e1dd5.png)
+
 
 I decided to edit GreenSlayer's impound script and streamline the code for a server I'm working on.
 
